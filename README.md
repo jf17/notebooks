@@ -1,4 +1,6 @@
-# My  Jupyter Notebooks
+# My  Jupyter Notebooks.
 
-## Для работы обязательно установить пакет Anaconda  !!!
+## Python 3.7
+
+### Для работы обязательно установить пакет Anaconda  !!!
 * https://www.anaconda.com/download/
