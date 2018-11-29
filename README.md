@@ -1,6 +1,10 @@
 # My  Jupyter Notebooks.
 
-## Python 3.7
+### Для работы обязательно установить пакет Anaconda 5.2.0 (Python 3.)  !!!
+* https://repo.anaconda.com/archive/
 
-### Для работы обязательно установить пакет Anaconda  !!!
-* https://www.anaconda.com/download/
+### установить пакет TensorFlow  !!!
+* conda install tensorflow 
+
+### установить пакет matplotlib  !!!
+* conda install matplotlib 
